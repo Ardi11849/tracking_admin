@@ -1,4 +1,9 @@
-# ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+# Tracking Admin Application Webisite
 
-My alternate version https://github.com/ardisaurus/old-rest-ci
+## Instalasi
+```
+  1. Pastikan komputer/laptop anda sudah mempunyai apache server
+  2. Download dan extract file di folder apache
+  3. Buka browser dan tuliskan "localhost:tracking_admin"
+  4. Application Tracking Admin Siap Di Gunakan :)
+```
