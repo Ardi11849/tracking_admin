@@ -12,4 +12,5 @@
 ```
   1. disarankan pengiriman barang dari cabang
   2. tidak perlu import database karena sudah terhubung dengan API
+  3. sudah terdapat aplikasi android untuk deteksi kurir dan konfirmasi pengiriman
 ```
